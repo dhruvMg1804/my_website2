@@ -50,8 +50,5 @@ In 1997, I was born in Mauritius, an island country in the Indian Ocean, located
 
 Being blessed with such a savage environment and diverse community, I owe my country a lot for the person I am today. I lived there for 19 years before moving to the UK in 2016. 
 
-```{r}
-knitr::include_graphics("static/img/blogs/Home.jpg",error =FALSE)
-```
 
 
